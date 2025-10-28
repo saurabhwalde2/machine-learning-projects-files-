@@ -1,9 +1,9 @@
-🧠 Machine Learning Model Repository
+# 🧠 **Machine Learning Model Repository**
 
 This repository contains various Machine Learning model files, datasets, and scripts used for data preprocessing, model training, and evaluation.
 The goal of this project is to build and deploy accurate predictive models for real-world data-driven applications.
 
-📁 Project Overview
+# 📁 **Project Overview**
 
 The repository includes:
 
@@ -17,7 +17,7 @@ Jupyter notebooks for experiments and analysis
 
 Scripts for evaluation and performance comparison
 
-🚀 Features
+#🚀 **Features**
 
 Data cleaning and preprocessing pipeline
 
@@ -33,7 +33,7 @@ Model saving  format
 
 
 
-👨‍💻 Author
+#👨‍💻 **Author**
 
 Saurabh Walde
 📍 Data Scientist | Python | Machine Learning | AWS
@@ -41,7 +41,7 @@ Saurabh Walde
 📞 +91 9503038260
 
 
-⭐ Support
+#⭐ **Support**
 
 If you find this project useful, please consider giving it a ⭐ on GitHub!
 Your support helps improve and maintain this repository.

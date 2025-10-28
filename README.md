@@ -37,8 +37,8 @@ Model saving  format
 
 Saurabh Walde
 📍 Data Scientist | Python | Machine Learning | AWS
-📧 saurabhwalde7@gmail.com
-📞 +91 9503038260
+
+
 
 
 #⭐ **Support**
